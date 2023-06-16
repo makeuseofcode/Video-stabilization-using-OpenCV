@@ -1,1 +1,3 @@
-# Video-stabalization-using-OpenCV
+# Video-stabilization-using-OpenCV
+
+This repository holds the code for stabilizing shaky videos using OpenCV.
