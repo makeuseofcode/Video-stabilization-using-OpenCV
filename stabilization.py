@@ -18,7 +18,7 @@ def smooth_trajectory(trajectory):
         smoothed_trajectory[:, i] = calculate_moving_average(
             trajectory[:, i],
             radius=SMOOTHING_RADIUS
-    )
+        )
 
     return smoothed_trajectory
 
